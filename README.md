@@ -28,7 +28,7 @@ This project uses data from a PostgreSQL `.tar` backup file restored via pgAdmin
 
 To make it accessible:
 - Key tables have been exported to CSV files in `/data/`
-- The original `.tar` file is also available [here](./data/rockbuster.tar) (requires PostgreSQL to restore)
+- The original `.tar` file is also available [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) (requires pgAdmin to restore)
 ## Links  
 
 ### Tableau Visualization
