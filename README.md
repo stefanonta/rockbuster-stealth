@@ -21,3 +21,8 @@ Here are the main questions they’d like to answer:
 - Which countries are Rockbuster customers based in?
 - Where are customers with a high lifetime value based?
 - Do sales figures vary between geographic regions?
+
+## Links  
+
+### Tableau Visualization
+[Rockbuster Stealth Tableau Presentation](https://public.tableau.com/views/RockbusterFinalPresentation_17125820977260/TopCountries?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
