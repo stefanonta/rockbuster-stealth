@@ -22,6 +22,13 @@ Here are the main questions they’d like to answer:
 - Where are customers with a high lifetime value based?
 - Do sales figures vary between geographic regions?
 
+## Dataset 🗃️
+
+This project uses data from a PostgreSQL `.tar` backup file restored via pgAdmin.
+
+To make it accessible:
+- Key tables have been exported to CSV files in `/data/`
+- The original `.tar` file is also available [here](./data/rockbuster.tar) (requires PostgreSQL to restore)
 ## Links  
 
 ### Tableau Visualization
