@@ -27,7 +27,7 @@ Here are the main questions they’d like to answer:
 This project uses data from a PostgreSQL `.tar` backup file restored via pgAdmin.
 
 To make it accessible:
-- Key tables have been exported to CSV files in `/data/`
+- Key tables have been exported to CSV files in `/data/tables`
 - The original `.tar` file is also available [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) (requires pgAdmin to restore)
 ## Links  
 
